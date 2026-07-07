@@ -1,0 +1,42 @@
+{
+  "identifier": "com.apple.storekit.testing.v1",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [
+    {
+      "id": "1",
+      "localizations": [],
+      "name": "Growthline Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Percentile chart overlay and multi-child comparison",
+              "displayName": "Growthline Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.growthchild.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Growthline Pro Monthly",
+          "subscriptionGroupID": "1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
